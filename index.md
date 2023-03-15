@@ -4,7 +4,6 @@
 ### Experiência Profissional
 
 ## Hospital Ernesto Dornelles 
-
 ```markdown
 Analista de Negócio 
 (Agosto/17 até o momento)
@@ -26,9 +25,7 @@ Estagiário de Informática
 - Configuração e Manutenção de Computadores.
 - Configuração e Administração de Servidores.
 ```
-
 ## ITools Manager LTDA 
-
 ```markdown
 Analista de Suporte Pleno 
 (Julho/11 até Abril/14)
@@ -37,7 +34,6 @@ Analista de Suporte Pleno
 - Configuração e Manutenção de Computadores.
 - Configuração e Administração de Servidores.
 ```
-
 ## Universitário Escola Técnica
 ```markdown
 Analista de Suporte Pleno 
@@ -47,9 +43,7 @@ Analista de Suporte Pleno
 - Configuração e Manutenção de Computadores.
 - Configuração e Administração de Servidores.
 ```
-
 ### Formação Acadêmica
-
 ## Faculdade Senac de Tecnologia
 ```markdown
 Análise e Desenvolvimento de Sistemas
