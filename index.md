@@ -1,8 +1,5 @@
 ## Sírio da Cunha Aguiar
 
-You can use the [editor on GitHub](https://github.com/sirioaguiar/sirioaguiar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Experiência Profissional
 
@@ -51,7 +48,7 @@ Analista de Suporte Pleno
 - Configuração e Administração de Servidores.
 ```
 
-### Fromação Acadêmica
+### Formação Acadêmica
 
 ## Faculdade Senac de Tecnologia
 ```markdown
