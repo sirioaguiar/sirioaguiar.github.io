@@ -1,5 +1,5 @@
 # Sírio da Cunha Aguiar
-[Image](https://github.com/sirioaguiar.png)
+![Image](/sirioaguiar.github.io/8357206.jpg)
 
 ## Experiência Profissional
 
