@@ -6,11 +6,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Experiência Profissional
 
-# Teste 1
-## Teste 2
-### Teste 3
+## Hospital Ernesto Dornelles 
 
 ```markdown
+Analista de Negócio 
+(Agosto/17 até o momento)
+- Desenvolvimento de relatórios no ERP Tasy;
+- Manutenção de consultas,procedure,functions e jobs em banco de dados oracle. 
+- Desenvolvimento utilizando PHP, JS, MySql, CSS e React.
+
+
+
+
 Syntax highlighted code block
 
 # Header 1
